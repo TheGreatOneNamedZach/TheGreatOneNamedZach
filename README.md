@@ -28,5 +28,5 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 **More About Me:**
 * I am a huge Undertale/Deltarune fan.
 * I have been programming since 2012.
-* I was on a FIRST Tech Challenge [robotics team](www.lectriclegends.org) for 5 years.
+* I was on a FIRST Tech Challenge [robotics team](https://www.lectriclegends.org) for 5 years.
 * I was on a 4-H robotics team for 5 years.

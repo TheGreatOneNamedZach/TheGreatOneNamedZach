@@ -30,3 +30,10 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 * I have been programming since 2012.
 * I was on a FIRST Tech Challenge [robotics team](https://www.lectriclegends.org) for 5 years.
 * I was on a 4-H robotics team for 5 years.
+
+---
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8"/></a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact"/>

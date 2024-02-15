@@ -1,7 +1,11 @@
 # <img height="32" src="icons/Toby.gif" alt="Java" title="Java"/> Hello!
 My name is Zachary Bratten. I am working towards a Computer Science major at the University of Kentucky.
 
-<img src='icons/FIRSTAlumn-Light.png#gh-light-mode-only' width=100 alt="FIRST Alumn" title="firstinspires.org"> <img src='icons/FIRSTAlumn-Dark.png#gh-dark-mode-only' width=100 alt="FIRST Alumn" title="firstinspires.org">
+<picture>
+  <source srcset="icons/FIRSTAlumn-Dark.png" media="(prefers-color-scheme: dark)"/>
+  <source srcset="icons/FIRSTAlumn-Light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <a><img align="center" width=100 alt="firstinspires.org" title="firstinspires.org" src="icons/FIRSTAlumn-Light.png"/></a>
+</picture>
 
 ---
 
@@ -9,7 +13,7 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 
 <a href="https://www.java.com" target="_blank"><img height="32" src="icons/Java.png" alt="Java" title="Java"/></a>
 <a href="https://www.autohotkey.com" target="_blank"><img height="32" src="icons/AutoHotKey.png" alt="AutoHotKey" title="AutoHotKey"/></a>
-<a href="https://www.mathworks.com/" target="_blank"><img height="32" src="icons/Matlab.png" alt="MATLAB" title="MATLAB"/></a>
+<a href="https://www.mathworks.com" target="_blank"><img height="32" src="icons/Matlab.png" alt="MATLAB" title="MATLAB"/></a>
 
 **Learning:**
 
@@ -34,26 +38,14 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 ---
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true" /></a>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true"/></a>
 </picture>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8" /></a>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8"/></a>
 </picture>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact"/>

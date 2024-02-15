@@ -14,6 +14,7 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 <a href="https://www.java.com" target="_blank"><img height="32" src="icons/Java.png" alt="Java" title="Java"/></a>
 <a href="https://www.autohotkey.com" target="_blank"><img height="32" src="icons/AutoHotKey.png" alt="AutoHotKey" title="AutoHotKey"/></a>
 <a href="https://www.mathworks.com" target="_blank"><img height="32" src="icons/Matlab.png" alt="MATLAB" title="MATLAB"/></a>
+<a href="https://www.json.org" target="_blank"><img height="32" src="icons/JSON.svg" alt="JSON" title="JSON"/></a>
 
 **Learning:**
 
@@ -21,11 +22,11 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img height="32" src="icons/CSS.png" alt="CSS" title="CSS"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img height="32" src="icons/JS.svg" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://isocpp.org" target="_blank"><img height="32" src="icons/C++.svg" alt="C++" title="C++"/></a>
+<a href="https://www.python.org" target="_blank"><img height="32" src="icons/Python.svg" alt="Python" title="Python"/></a>
 
 **Dabbled In:**
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="32" src="icons/C.svg" alt="C" title="C"/></a>
-<a href="https://www.python.org" target="_blank"><img height="32" src="icons/Python.svg" alt="Python" title="Python"/></a>
 
 ---
 

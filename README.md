@@ -4,7 +4,13 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 <picture>
   <source srcset="icons/FIRSTAlumn-Dark.png" media="(prefers-color-scheme: dark)"/>
   <source srcset="icons/FIRSTAlumn-Light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <a><img align="center" width=100 alt="firstinspires.org" title="firstinspires.org" src="icons/FIRSTAlumn-Light.png"/></a>
+  <a><img align="center" height="40" alt="firstinspires.org" title="firstinspires.org" src="icons/FIRSTAlumn-Light.png"/></a>
+</picture>
+<picture>
+  <a><img align="center" height="40" src="icons/ILRScaleEN-5.png"/></a>
+</picture>
+<picture>
+  <a><img align="center" height="40" src="icons/ILRScaleDE-1.png"/></a>
 </picture>
 
 ---

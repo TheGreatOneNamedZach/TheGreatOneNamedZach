@@ -60,13 +60,13 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatonenamedzach&custom_title=GitHub%20Stats&show_icons=true"/></a>
 </picture>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8"/></a>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&custom_title=Languages%20Used%20On%20GitHub&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&custom_title=Languages%20Used%20On%20GitHub&layout=compact&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&custom_title=Languages%20Used%20On%20GitHub&layout=compact&langs_count=8"/></a>
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact"/>
 </picture>

@@ -7,7 +7,7 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
   <a><img align="center" height="40" alt="firstinspires.org" title="firstinspires.org" src="icons/FIRSTAlumn-Light.png"/></a>
 </picture>
 <picture>
-  <a><img align="center" height="40" src="icons/ILRScaleEN-5.png"/></a>
+  <a><img align="center" height="40" src="icons/ILRScaleEN-5V2.png"/></a>
 </picture>
 <picture>
   <a><img align="center" height="40" src="icons/ILRScaleDE-1.png"/></a>

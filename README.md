@@ -63,4 +63,8 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatonenamedzach&layout=compact&langs_count=8"/></a>
 </picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact"/>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&layout=compact"/>
+</picture>

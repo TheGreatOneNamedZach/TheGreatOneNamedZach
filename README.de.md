@@ -44,6 +44,7 @@ Ich heiße Zachary Bratten. Ich arbeite auf eine Hauptfach Informatik an der Uni
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="32" src="icons/C.svg" alt="C" title="C"/></a>
 <a href="https://ffmpeg.org/" target="_blank"><img height="32" src="icons/FFmpeg.svg" alt="FFmpeg" title="FFmpeg"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img height="32" src="icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>
 <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>

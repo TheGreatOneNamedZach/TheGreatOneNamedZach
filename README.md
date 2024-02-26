@@ -36,20 +36,21 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>
 <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img height="32" src="icons/VS.svg" alt="Visual Studio" title="Visual Studio"/></a>
+<a href="https://visualstudio.microsoft.com" target="_blank"><img height="32" src="icons/VS.svg" alt="Visual Studio" title="Visual Studio"/></a>
 <a href="https://www.arduino.cc/en/software" target="_blank"><img height="32" src="icons/ArduinoIDE.svg" alt="Arduino IDE" title="Arduino IDE"/></a>
-<a href="https://nodejs.org/" target="_blank"><img height="32" src="icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a>
+<a href="https://nodejs.org" target="_blank"><img height="32" src="icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a>
 
 **Dabbled In:**
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="32" src="icons/C.svg" alt="C" title="C"/></a>
-<a href="https://ffmpeg.org/" target="_blank"><img height="32" src="icons/FFmpeg.svg" alt="FFmpeg" title="FFmpeg"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img height="32" src="icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="https://ffmpeg.org" target="_blank"><img height="32" src="icons/FFmpeg.svg" alt="FFmpeg" title="FFmpeg"/></a>
+<a href="https://opencv.org" target="_blank"><img height="32" src="icons/OpenCV.png" alt="OpenCV" title="OpenCV"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img height="32" src="icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>
 <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
 <a><img height="16" src="icons/Blank.png" alt="Blank"/></a>
-<a href="https://www.eclipse.org/downloads/" target="_blank"><img height="32" src="icons/Eclipse.png" alt="Eclipse" title="Eclipse"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img height="32" src="icons/VSCode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
+<a href="https://www.eclipse.org/downloads" target="_blank"><img height="32" src="icons/Eclipse.png" alt="Eclipse" title="Eclipse"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img height="32" src="icons/VSCode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
 
 ---
 

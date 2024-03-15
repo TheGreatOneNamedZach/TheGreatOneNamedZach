@@ -39,6 +39,7 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
 <a href="https://visualstudio.microsoft.com" target="_blank"><img height="32" src="icons/VS.svg" alt="Visual Studio" title="Visual Studio"/></a>
 <a href="https://www.arduino.cc/en/software" target="_blank"><img height="32" src="icons/ArduinoIDE.svg" alt="Arduino IDE" title="Arduino IDE"/></a>
 <a href="https://nodejs.org" target="_blank"><img height="32" src="icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a>
+<a href="https://colab.google" target="_blank"><img height="32" src="icons/Colab.png" alt="Google Colab" title="Google Colab"/></a>
 
 **Dabbled In:**
 

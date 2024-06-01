@@ -80,3 +80,11 @@ My name is Zachary Bratten. I am working towards a Computer Science major at the
   <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact"/>
 </picture>
+
+---
+
+<picture>
+  <source srcset="https://roadmap.sh/card/tall/665affe4b998f3b3c72bdb43?variant=dark&roadmaps=computer-science%2Cfull-stack%2Ccyber-security%2Cjava" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://roadmap.sh/card/tall/665affe4b998f3b3c72bdb43?variant=light&roadmaps=computer-science%2Cfull-stack%2Ccyber-security%2Cjava" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://roadmap.sh/card/tall/665affe4b998f3b3c72bdb43&roadmaps=computer-science%2Cfull-stack%2Ccyber-security%2Cjava"/>
+</picture>

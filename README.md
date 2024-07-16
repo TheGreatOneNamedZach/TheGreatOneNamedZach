@@ -44,6 +44,7 @@
   <a href="https://www.arduino.cc/en/software" target="_blank"><img height="32" src="icons/ArduinoIDE.svg" alt="Arduino IDE" title="Arduino IDE"/></a>
   <a href="https://nodejs.org" target="_blank"><img height="32" src="icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a>
   <a href="https://colab.google" target="_blank"><img height="32" src="icons/Colab.png" alt="Google Colab" title="Google Colab"/></a>
+  <a href="https://www.eclipse.org/downloads" target="_blank"><img height="32" src="icons/Eclipse.png" alt="Eclipse" title="Eclipse"/></a>
 </p>
 
 <b>Dabbled In:</b>
@@ -52,10 +53,6 @@
   <a href="https://ffmpeg.org" target="_blank"><img height="32" src="icons/FFmpeg.svg" alt="FFmpeg" title="FFmpeg"/></a>
   <a href="https://opencv.org" target="_blank"><img height="32" src="icons/OpenCV.png" alt="OpenCV" title="OpenCV"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img height="32" src="icons/TensorFlow.svg" alt="TensorFlow" title="TensorFlow"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.eclipse.org/downloads" target="_blank"><img height="32" src="icons/Eclipse.png" alt="Eclipse" title="Eclipse"/></a>
 </p>
 
 <hr>

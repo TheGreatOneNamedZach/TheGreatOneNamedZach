@@ -35,10 +35,12 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img height="32" src="icons/JS.svg" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://isocpp.org" target="_blank"><img height="32" src="icons/C++.svg" alt="C++" title="C++"/></a>
   <a href="https://www.python.org" target="_blank"><img height="32" src="icons/Python.svg" alt="Python" title="Python"/></a>
+  <a href="https://www.w3.org/Graphics/SVG/" target="_blank"><img height="32" src="icons/SVG.svg" alt="SVG" title="SVG"/></a>
   &nbsp;&nbsp;&nbsp;
   <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com" target="_blank"><img height="32" src="icons/VS.svg" alt="Visual Studio" title="Visual Studio"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img height="32" src="icons/VSCode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
   <a href="https://www.arduino.cc/en/software" target="_blank"><img height="32" src="icons/ArduinoIDE.svg" alt="Arduino IDE" title="Arduino IDE"/></a>
   <a href="https://nodejs.org" target="_blank"><img height="32" src="icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a>
   <a href="https://colab.google" target="_blank"><img height="32" src="icons/Colab.png" alt="Google Colab" title="Google Colab"/></a>
@@ -54,7 +56,6 @@
   <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.eclipse.org/downloads" target="_blank"><img height="32" src="icons/Eclipse.png" alt="Eclipse" title="Eclipse"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img height="32" src="icons/VSCode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
 </p>
 
 <hr>

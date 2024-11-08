@@ -1,6 +1,6 @@
 <h1> <img height="32" src="icons/Toby.gif" alt="Dog"/> Hello!</h1>
 <p>
-  My name is Zachary Bratten. I am working towards a Computer Science major at the University of Kentucky.
+  My name is Zachary Bratten. I am working towards a Computer Science major.
 </p>
 <picture>
   <source srcset="icons/FIRSTAlumn-Dark.png" media="(prefers-color-scheme: dark)"/>

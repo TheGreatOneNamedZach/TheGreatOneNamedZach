@@ -22,6 +22,8 @@
   <a href="https://www.autohotkey.com" target="_blank"><img height="32" src="icons/AutoHotKey.png" alt="AutoHotKey" title="AutoHotKey"/></a>
   <a href="https://www.mathworks.com" target="_blank"><img height="32" src="icons/Matlab.png" alt="MATLAB" title="MATLAB"/></a>
   <a href="https://www.json.org" target="_blank"><img height="32" src="icons/JSON.svg" alt="JSON" title="JSON"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="32" src="icons/HTML5.png" alt="HTML5" title="HTML5"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img height="32" src="icons/CSS.png" alt="CSS" title="CSS"/></a>
   &nbsp;&nbsp;&nbsp;
   <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
   &nbsp;&nbsp;&nbsp;
@@ -30,8 +32,6 @@
 
 <b>Learning:</b>
 <p>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="32" src="icons/HTML5.png" alt="HTML5" title="HTML5"/></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img height="32" src="icons/CSS.png" alt="CSS" title="CSS"/></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img height="32" src="icons/JS.svg" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://isocpp.org" target="_blank"><img height="32" src="icons/C++.svg" alt="C++" title="C++"/></a>
   <a href="https://www.python.org" target="_blank"><img height="32" src="icons/Python.svg" alt="Python" title="Python"/></a>
@@ -80,7 +80,7 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20365%20days)&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
   <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thegreatonenamedzach&custom_title=Programming%20Stats%20(last%20year)&layout=compact"/>
 </picture>

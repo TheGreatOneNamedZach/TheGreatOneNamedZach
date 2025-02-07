@@ -36,6 +36,7 @@
   <a href="https://isocpp.org" target="_blank"><img height="32" src="icons/C++.svg" alt="C++" title="C++"/></a>
   <a href="https://www.python.org" target="_blank"><img height="32" src="icons/Python.svg" alt="Python" title="Python"/></a>
   <a href="https://www.w3.org/Graphics/SVG/" target="_blank"><img height="32" src="icons/SVG.svg" alt="SVG" title="SVG"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img height="32" src="icons/Kotlin.svg" alt="Kotlin" title="Kotlin"/></a>
   &nbsp;&nbsp;&nbsp;
   <a><img height="32" src="icons/DoubleLine.svg" alt="Double Line"/></a>
   &nbsp;&nbsp;&nbsp;

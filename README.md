@@ -1,7 +1,7 @@
 <section>
   <h1><img height="32" src="icons/Toby.gif" alt="A moving image of the annoying dog from the game Undertale."/> Hello!</h1>
   <p>
-    My name is Zachary Bratten. I am working towards a Computer Science major.
+    My name is Zachary Bratten. I am interested in Software Development and Front-End Website Development.
   </p>
   <a href="https://firstinspires.org/" target="_blank"><picture>
     <source srcset="icons/FIRSTAlumn-Dark.png" media="(prefers-color-scheme: dark)"/>
